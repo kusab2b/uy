@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.class{
+    margin-top: 15px;
+    margin-left: 3px;
+    color: #777777;
+}
+ .offic{
+    margin-left: 250px;
+    color: #001Aff;
+}
+.omega{
+    margin-left: 70px;
+    color: #ff0000;
+}
